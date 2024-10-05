@@ -1,5 +1,23 @@
 # Poker Prediction
 
+# HOW TO RUN PROJECT
+
+1. Download the Jupyter notebook:
+   ```bash
+   wget https://github.com/rezapace/Machine-Learning-poker-prediction/releases/download/1.0/poker_prediction.ipynb
+   ```
+
+2. Open Google Colab:
+   [https://colab.research.google.com/#create=true](https://colab.research.google.com/#create=true)
+
+3. Upload the downloaded `klasifikasi_catur.ipynb` file to Google Colab.
+
+4. Run the notebook:
+   - Execute each cell in order
+   - Follow the instructions provided in the notebook comments
+
+Note: Make sure you have a Google account to use Google Colab. If you encounter any issues, please refer to the [project repository](https://github.com/rezapace/Machine-Learning-poker-prediction) for troubleshooting or to report problems.
+
 ## Deskripsi
 Proyek ini bertujuan untuk membuat model prediksi kemenangan dalam permainan poker menggunakan dataset yang dihasilkan secara acak. Model ini menggunakan algoritma Random Forest untuk memprediksi probabilitas kemenangan berdasarkan berbagai fitur seperti kartu hole, posisi pemain, jumlah pemain yang tersisa, ukuran pot, dan jumlah taruhan yang harus dipanggil.
 
